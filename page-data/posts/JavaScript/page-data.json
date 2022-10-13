@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-category-template-js",
     "path": "/posts/JavaScript",
-    "result": {"pageContext":{"currentCategory":"JavaScript","categories":["All","JavaScript","웹공부"],"edges":[{"node":{"id":"d9f91328-f84f-5e3d-bcb1-52514d904c34","excerpt":"test 테스트 중입니다.","fields":{"slug":"/test/"},"frontmatter":{"categories":"JavaScript","title":"개츠비 블로그 test","date":"October 13, 2021"}},"next":{"fields":{"slug":"/3d-book/"}},"previous":null}]}},
+    "result": {"pageContext":{"currentCategory":"JavaScript","categories":["All","JavaScript"],"edges":[{"node":{"id":"d9f91328-f84f-5e3d-bcb1-52514d904c34","excerpt":"test 테스트 중입니다.","fields":{"slug":"/test/"},"frontmatter":{"categories":"JavaScript","title":"개츠비 블로그 test","date":"October 13, 2021"}},"next":null,"previous":null}]}},
     "staticQueryHashes": ["1073350324","1956554647","2938748437"]}

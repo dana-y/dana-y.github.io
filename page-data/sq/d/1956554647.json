@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"개츠비 블로그 test","categories":"JavaScript"},"fields":{"slug":"/test/"}}},{"node":{"frontmatter":{"title":"three.js로 회전하는 책 만들어 보기","categories":"웹공부"},"fields":{"slug":"/3d-book/"}}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"개츠비 블로그 test","categories":"JavaScript"},"fields":{"slug":"/test/"}}}]}}}

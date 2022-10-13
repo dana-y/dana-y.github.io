@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-category-template-js",
-    "path": "/posts/웹공부",
-    "result": {"pageContext":{"currentCategory":"웹공부","categories":["All","JavaScript","웹공부"],"edges":[{"node":{"id":"21b398d7-ce94-5a2f-8ed3-69f8c493269c","excerpt":"💥 동기 회사에서 독서비를 지원해주는 덕에 코로나 한참 전부터 거리두기를 하던 책을 조금씩 읽기 시작했다. 최근에 책을 알아보러 알라딘에 들어가보니 책에 마우스를 올리면 책을 돌려볼 수 있도록 되어있었다. 요즘 three.js에 대해 호기심이 있었는데 이 기회에 three.js 경험해볼 겸 혹시 다른 사이드 프로젝트에서 써먹어볼 수 있지 않을까 하는 마음으로 알라딘의 책을 three.js로 클론해보게 되었다.(알라딘에서 책의 앞, 뒤, 옆면에 사용할 이미지 소스도 구할 수 있어서 너무 좋았다.😊)  클론을 하면서 이런저런 소스를 통해서 three.js를 조금은 이해해볼 수 있게 되었는데 혹시 three.js를 뭔가를 만들어보면서 공부해보고 싶으신 분들을 워해 과제 형식으로 내용을 정리 해보았다. 🎮 알라딘 책 클론해보기 🤔 과제 알라딘의 책 미리보기를 three.js를 통해 최대한 유사하게 구현해본다. 제한시간: 5시간(긴장감을 위해) 🧺 준비물 책의 앞, 뒤, 옆면에서 사용할 이…","fields":{"slug":"/3d-book/"},"frontmatter":{"categories":"웹공부","title":"three.js로 회전하는 책 만들어 보기","date":"August 09, 2021"}},"next":null,"previous":{"fields":{"slug":"/test/"}}}]}},
-    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
