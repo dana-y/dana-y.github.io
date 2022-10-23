@@ -1,5 +1,5 @@
 module.exports = {
-  title: `yangdaeunBlog.com`,
+  title: `daeunBlog.com`,
   description: `양다은 기술 블로그`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://www.zoomkoding.com`,
