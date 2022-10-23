@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"개츠비 블로그 test","categories":"JavaScript"},"fields":{"slug":"/test/"}}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"React/ state 올바르게 사용하기","categories":"React"},"fields":{"slug":"/test/"}}},{"node":{"frontmatter":{"title":"React/ React Lifecycle 정복하기","categories":"React"},"fields":{"slug":"/react_lifecycle/"}}}]}}}
