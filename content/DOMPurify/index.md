@@ -45,8 +45,7 @@ DOM Purify가 html을 살균하면서 보안에 취약한 `target="\_blank"`을 
 - 해당 속성들을 살펴보면서 알아보자
 
 > `<a href="https://www.google.com/" target="_blank" rel="noopener noreferrer">` <br /><br />
-> 이 둘은 보통 짝으로 같이 다니게 되는데, `rel` 속성은 낯설다.<br />
-> `rel`은 연결된 리소스와 현재 문서 간의 관계를 정의하는 속성이다. <br />
+> 이 둘은 보통 짝으로 같이 다니게 되는데, `rel` 속성은 낯설다.<br /> > `rel`은 연결된 리소스와 현재 문서 간의 관계를 정의하는 속성이다. <br />
 > 리소스가 연결되는 `<link>`, `<a>`, `<area>`, `<form>`에서 사용하는데 각 태그마다 올 수 있는 값이 다르다.
 
   <br />
